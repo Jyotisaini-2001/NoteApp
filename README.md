@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  NoteApp allows users to create, read, update, and delete their own notes. Each note has a title, content, and timestamp.
  
  # Data Storage
-Note Manager uses Firebase's Realtime Database to store user information and notes.
+NoteApp uses Firebase's Realtime Database to store user information and notes.
 # Technologies Used
 Note Manager is built using the following technologies:
 
@@ -28,7 +28,7 @@ Note Manager is built using the following technologies:
 # Deployment
 NoteApp is Hosted to Firebase hosting. You can view the live demo of the application at:
 [(https://mynotes-f2239.web.app/home)](https://mynotes-f2239.web.app/home))
-## Available Scripts
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -93,4 +93,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
