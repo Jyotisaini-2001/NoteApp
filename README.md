@@ -21,13 +21,13 @@ Note Manager uses Firebase's Realtime Database to store user information and not
 # Technologies Used
 Note Manager is built using the following technologies:
 
-React.js
-Firebase
-Bootstrap
+1. React.js
+2. Firebase
+3. Bootstrap
 
 # Deployment
-Note Manager is deployed to GitHub Pages. You can view the live demo of the application at:
-
+NoteApp is Hosted to Firebase hosting. You can view the live demo of the application at:
+[(https://mynotes-f2239.web.app/home)](https://mynotes-f2239.web.app/home))
 ## Available Scripts
 
 In the project directory, you can run:
