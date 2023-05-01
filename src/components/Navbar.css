@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 0 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    margin-left: 10px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .navbar {
+      height: auto;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .navbar-brand {
+      margin-bottom: 10px;
+    }
+  
+    .navbar-nav {
+      flex-direction: column;
+    }
+  
+    .nav-link {
+      margin-left: 0;
+      margin-bottom: 5px;
+    }
+  }
+  
