@@ -8,7 +8,7 @@ import Home from './components/Home';
 import SignUp from './components/SignUp';
 import Login from './components/Login';
 import NoteApp from './/NoteApp';
-
+import Footer from './components/footer';
 function App() {
 
   // Initialize Firebase when the component mounts
@@ -38,6 +38,7 @@ function App() {
         <Route path="/noteapp" element={<NoteApp />} />
         </Routes>
       </Router>
+      <Footer/>
     </div>
   );
 }
